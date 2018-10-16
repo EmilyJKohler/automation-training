@@ -1,0 +1,5 @@
+[debug] Running TaskDef(automationTraining.runner.Runner, com.novocode.junit.RunWithFingerprint@4867914f, false, [SuiteSelector])
+[debug] Summary for JUnit not available.
+[info] Passed: Total 3, Failed 0, Errors 0, Passed 3
+[debug] Passed tests:
+[debug] 	automationTraining.runner.Runner

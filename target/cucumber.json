@@ -1,0 +1,46 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Navifation to Gov UK",
+        "description": "",
+        "id": "basic-navigation;navifation-to-gov-uk",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 153945867,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "A user navigates to Gov UK",
+            "match": {
+              "location": "MainSteps.scala:8"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 45849,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "They will be on the correct page",
+            "match": {
+              "location": "MainSteps.scala:13"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Basic navigation",
+    "description": "",
+    "id": "basic-navigation",
+    "keyword": "Feature",
+    "uri": "example.feature"
+  }
+]

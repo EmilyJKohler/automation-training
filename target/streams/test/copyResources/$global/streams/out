@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(/home/emilykohler/Applications/src/test/resources/feature,/home/emilykohler/Applications/target/scala-2.11/test-classes/feature)
+[debug] 	(/home/emilykohler/Applications/src/test/resources/feature/example.feature,/home/emilykohler/Applications/target/scala-2.11/test-classes/feature/example.feature)
